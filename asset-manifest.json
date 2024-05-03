@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/restik/static/css/main.f855e6bc.css",
+    "main.js": "/restik/static/js/main.b96ccdaf.js",
+    "static/js/453.0f0efae4.chunk.js": "/restik/static/js/453.0f0efae4.chunk.js",
+    "static/media/meat.webp": "/restik/static/media/meat.4faf4d45d1a81a374c1b.webp",
+    "static/media/pizza.jpeg": "/restik/static/media/pizza.cc1456cfb8eb2920864e.jpeg",
+    "static/media/seafood.webp": "/restik/static/media/seafood.b97e1e325166c0a430f2.webp",
+    "static/media/caprese.png": "/restik/static/media/caprese.9ae673b4dc7de081e449.png",
+    "static/media/salmon.jpeg": "/restik/static/media/salmon.8157fb76839d36af3a67.jpeg",
+    "static/media/fruit.jpeg": "/restik/static/media/fruit.a819e3eac56da7710f61.jpeg",
+    "static/media/chicken.jpeg": "/restik/static/media/chicken.b513117d09c5247d9400.jpeg",
+    "static/media/alice.jpeg": "/restik/static/media/alice.0f2463d94577595193fb.jpeg",
+    "static/media/location1.jpeg": "/restik/static/media/location1.16a114fec0aeb4c0b6c2.jpeg",
+    "static/media/green.webp": "/restik/static/media/green.65a2c29c4e2d4d2365bf.webp",
+    "static/media/dairy.jpeg": "/restik/static/media/dairy.f545bed335b71090ccc8.jpeg",
+    "static/media/risotto.jpeg": "/restik/static/media/risotto.343a85feb4d3d69cf0ea.jpeg",
+    "static/media/location3.jpeg": "/restik/static/media/location3.47c5cd9ea66dae2346ad.jpeg",
+    "static/media/penne.webp": "/restik/static/media/penne.b2a819b007502c7d824f.webp",
+    "static/media/location2.jpeg": "/restik/static/media/location2.fc76fa4786c0ea288c6f.jpeg",
+    "static/media/fruits.jpeg": "/restik/static/media/fruits.ed3282416d08fdbd3aa7.jpeg",
+    "static/media/veggi.jpeg": "/restik/static/media/veggi.d5397d2f46d3c19309e1.jpeg",
+    "static/media/fish.avif": "/restik/static/media/fish.c0ed0e990a6e3fddc7be.avif",
+    "static/media/theme2.jpeg": "/restik/static/media/theme2.78396a4d46cec786f349.jpeg",
+    "static/media/berry.jpeg": "/restik/static/media/berry.4edd111b6fd7839b45e3.jpeg",
+    "static/media/bob.png": "/restik/static/media/bob.1156d74becd1ec5a162f.png",
+    "static/media/berryContact.jpeg": "/restik/static/media/berryContact.4da0ed5ba739fc02f910.jpeg",
+    "static/media/john.png": "/restik/static/media/john.82dad68bf3af749f44fa.png",
+    "static/media/theme3.jpeg": "/restik/static/media/theme3.50e21c2c73a425fb2544.jpeg",
+    "static/media/theme1.avif": "/restik/static/media/theme1.d607b3854a4a8a2229af.avif",
+    "index.html": "/restik/index.html",
+    "main.f855e6bc.css.map": "/restik/static/css/main.f855e6bc.css.map",
+    "main.b96ccdaf.js.map": "/restik/static/js/main.b96ccdaf.js.map",
+    "453.0f0efae4.chunk.js.map": "/restik/static/js/453.0f0efae4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b96ccdaf.js"
+  ]
+}
